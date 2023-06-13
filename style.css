@@ -89,10 +89,10 @@ form{
     align-items: center;
 }
 .title h1{
-    width: 360px;
+    width: 291px;
     font-family: 'Open Sans';
     font-weight: 700;
-    font-size: 24px;
+    font-size: 20px;
     line-height: 36px;
     text-align: center;
     color: var(--lightDark);
